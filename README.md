@@ -30,4 +30,7 @@ After that you will get token
 trello_app.set_token(TRELLO_APP_TOKEN)
 ```
 
+Asynchronous version https://github.com/polozhevets/atrello
+
+
 Deprecated source: https://developers.kilnhg.com/Code/Trello/Group/TrelloPy?nr=
